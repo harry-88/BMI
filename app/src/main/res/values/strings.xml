@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">assignment2</string>
+    <string name="calculate">Calculate</string>
+    <string name="bmiResult">Your BMI Result</string>
+    <string name="goBack">Go Back</string>
+    <string name="normalBMI">normal BMI range is 18.5kg/m2 - 25kg/m2</string>
+    <string name="Info">try to excericise more</string>
+
+</resources>
